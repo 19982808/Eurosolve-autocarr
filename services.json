@@ -1,0 +1,93 @@
+[
+  {
+    "id":1,
+    "title":"Diagnostic Services",
+    "shortDesc":"Advanced computerized diagnostics for European & Japanese vehicles.",
+    "hero":"diagnostic_services.jpg",
+    "description":"Full engine and system scan with detailed report. Ensures optimal performance.",
+    "price":"KES 3,500",
+    "gallery":["diagnostic_services_1.jpg","diagnostic_services_2.jpg","diagnostic_services_3.jpg"],
+    "reviews":[
+      {"name":"Peter M.","comment":"Fast and accurate diagnostics!"},
+      {"name":"Jane K.","comment":"Professional service for my BMW."}
+    ]
+  },
+  {
+    "id":2,
+    "title":"Routine Maintenance",
+    "shortDesc":"Comprehensive maintenance including oil changes, brake checks, battery tests, fluid top-ups.",
+    "hero":"routine_maintenance.jpg",
+    "description":"Keep your vehicle running smoothly with regular checks and preventative care.",
+    "price":"KES 5,000",
+    "gallery":["routine_maintenance_1.jpg","routine_maintenance_2.jpg","routine_maintenance_3.jpg"],
+    "reviews":[
+      {"name":"John D.","comment":"Keeps my car running perfectly."},
+      {"name":"Mary W.","comment":"Excellent service, very thorough."}
+    ]
+  },
+  {
+    "id":3,
+    "title":"Engine & Transmission Repairs",
+    "shortDesc":"Expert repairs and rebuilds for engine and transmission systems.",
+    "hero":"engine_transmission.jpg",
+    "description":"Restores power, efficiency, and longevity of your vehicle's engine and transmission.",
+    "price":"KES 25,000",
+    "gallery":["engine_transmission_1.jpg","engine_transmission_2.jpg","engine_transmission_3.jpg"],
+    "reviews":[
+      {"name":"Alex L.","comment":"Engine fixed perfectly!"},
+      {"name":"Grace N.","comment":"Transmission service was fast and reliable."}
+    ]
+  },
+  {
+    "id":4,
+    "title":"Suspension & Steering",
+    "shortDesc":"Alignment, shock absorber replacement, suspension tuning, and steering system servicing.",
+    "hero":"suspension_steering.jpg",
+    "description":"Ensures a smooth, safe, and stable ride with full suspension and steering care.",
+    "price":"KES 12,000",
+    "gallery":["suspension_steering_1.jpg","suspension_steering_2.jpg","suspension_steering_3.jpg"],
+    "reviews":[
+      {"name":"Michael B.","comment":"My car rides smoothly now."},
+      {"name":"Linda K.","comment":"Excellent alignment service."}
+    ]
+  },
+  {
+    "id":5,
+    "title":"Air Conditioning & Electrical Systems",
+    "shortDesc":"Diagnosis and repair of AC and electrical systems.",
+    "hero":"ac_electrical.jpg",
+    "description":"Keep your car cool and fully functional with expert AC and electrical repairs.",
+    "price":"KES 8,000",
+    "gallery":["ac_electrical_1.jpg","ac_electrical_2.jpg","ac_electrical_3.jpg"],
+    "reviews":[
+      {"name":"Kevin T.","comment":"AC fixed quickly."},
+      {"name":"Sophie M.","comment":"Electrical repairs done professionally."}
+    ]
+  },
+  {
+    "id":6,
+    "title":"Vehicle Inspection & Pre-Purchase Checks",
+    "shortDesc":"Thorough inspection and pre-purchase checks for your vehicle.",
+    "hero":"vehicle_inspection.jpg",
+    "description":"Ensure your investment is safe with a detailed inspection before purchase.",
+    "price":"KES 5,500",
+    "gallery":["vehicle_inspection_1.jpg","vehicle_inspection_2.jpg","vehicle_inspection_3.jpg"],
+    "reviews":[
+      {"name":"Daniel R.","comment":"Helped me buy my car confidently."},
+      {"name":"Angela P.","comment":"Very detailed inspection."}
+    ]
+  },
+  {
+    "id":7,
+    "title":"Bodywork & Paint",
+    "shortDesc":"Dent removal, paint correction, and full detailing.",
+    "hero":"bodywork_paint.jpg",
+    "description":"Restore your car’s appearance to showroom condition with professional bodywork.",
+    "price":"KES 15,000",
+    "gallery":["bodywork_paint_1.jpg","bodywork_paint_2.jpg","bodywork_paint_3.jpg"],
+    "reviews":[
+      {"name":"Oliver F.","comment":"Car looks brand new!"},
+      {"name":"Emily S.","comment":"High-quality paint work."}
+    ]
+  }
+]
